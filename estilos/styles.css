@@ -1,0 +1,134 @@
+/* body horarios */
+.body-h{
+    background-color:beige;
+}
+/* pagina principal */
+.body-p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+}
+h2{
+    padding:auto;
+    margin: 20px;
+    border: solid black;
+    text-align: center;
+}
+h3{
+    padding: auto;
+    margin: 20px;
+    border: solid black;
+    text-align: center;
+}
+.imagennn{
+    display: flex;
+    justify-content: center;
+}
+.img-b{
+    width: 200px;
+    height: 250px;
+}
+.imagennn-2{
+    display: grid;
+    justify-content: center;
+    padding: 120;
+}
+.img-b-2{
+    width: 300px;
+    height: 250px;
+}
+.imagennn-3{
+    text-align: center;
+}
+.imagennn-4{
+    text-align: center;
+}
+.imagennn-5{
+    text-align: center;
+}
+.parrafo-1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: left;
+    padding:20px;
+}
+.parrafo-2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: left;
+    padding:20px;
+}
+.parrafo-3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: left;
+    padding: 20px;
+}
+.parrafo-4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: left;
+    padding: 20px;
+}
+/* estilo de horarios */
+.h1-horarios{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* estilo de header */
+.header{
+    display: flex;
+    background-color: #1b3039;
+    justify-content:center;
+}
+.header h1{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.header img{
+    padding: 20px;
+    height: 100px;
+    width: auto;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #333;
+    justify-content: center;
+}
+nav a{
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+/* estilo footer */
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #1b3039;
+    padding: 10px 10px;
+}
+.footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.footer ul a{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.footer p{
+    color: white;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
