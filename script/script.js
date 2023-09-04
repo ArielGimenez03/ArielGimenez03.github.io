@@ -2,7 +2,7 @@ var nombre = prompt("Ingresa tu nombre:");
 var edad = (Number(prompt("Ingresa tu edad:")));
 
 function saludo(nombre){
-    alert("Hola " + nombre + " bienvenido a mi pagina web")
+    alert("Hola " + nombre + " bienvenido/a a mi pagina web")
 }
 saludo(nombre)
 if(edad > 17){
