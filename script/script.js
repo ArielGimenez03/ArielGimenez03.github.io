@@ -1,15 +1,9 @@
 var nombre = prompt("Ingresa tu nombre:");
-var edad = (Number(prompt("Ingresa tu edad:")));
 
 function saludo(nombre){
     alert("Hola " + nombre + " bienvenido/a a mi pagina web")
 }
 saludo(nombre)
-if(edad > 17){
-    alert("Ingreso valido!");
-}else{
-    alert("Ingreso invalido. Debes ser mayor de 18 años para ver el contenido de esta pagina!!");
-}
 
 
 
