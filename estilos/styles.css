@@ -11,9 +11,7 @@ h2 a{
     color: black;
 }
 h2{
-    padding:auto;
-    margin: 20px;
-    border-bottom: solid black;
+    padding:20px;
     text-align: center;
 }
 h3{
